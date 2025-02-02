@@ -42,7 +42,7 @@ Method:POST  |	 Endpoint:/api/auth/logout    |  Description:Logout & revoke toke
 Method:GET   |   Endpoint:/api/auth/user      |  Description:Get user info <br />
 
 
-Trip Booking
+Trip Booking <br />
 Method:POST  |   Endpoint:/api/create-trip       |  Description:Generate a trip <br />
 Method:POST	 |   Endpoint:/api/book-seat	     |  Description:Book a seat if available <br />
 Method:POST	 |   Endpoint:/api/available-seats   |  Description:Get available seats for a trip segment <br />
