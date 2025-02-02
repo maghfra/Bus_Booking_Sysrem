@@ -36,18 +36,16 @@ Use Postman or any API testing tool to test the following endpoints.
 
 ## Authentication
 
-Method	   Endpoint	            Description
-POST	/api/auth/register	   Register a new user
-POST	/api/auth/login	       Login & get token
-POST	/api/auth/logout        Logout & revoke token
-GET    /api/auth/user          Get user info
+Method:POST  |	 Endpoint:/api/auth/register  |	 Description:Register a new user <br />
+Method:POST  |	 Endpoint:/api/auth/login	  |  Description:Login & get token <br />
+Method:POST  |	 Endpoint:/api/auth/logout    |  Description:Logout & revoke token <br />
+Method:GET   |   Endpoint:/api/auth/user      |  Description:Get user info <br />
 
 
 Trip Booking
-Method	   Endpoint	           Description
-POST    /api/create-trip     Generate a trip
-POST	/api/book-seat	     Book a seat if available
-POST	/api/available-seats Get available seats for a trip segment
+Method:POST  |   Endpoint:/api/create-trip       |  Description:Generate a trip <br />
+Method:POST	 |   Endpoint:/api/book-seat	     |  Description:Book a seat if available <br />
+Method:POST	 |   Endpoint:/api/available-seats   |  Description:Get available seats for a trip segment <br />
 
 ## APT Documentation
 https://documenter.getpostman.com/view/33683196/2sAYX3rPZN
@@ -55,6 +53,5 @@ https://documenter.getpostman.com/view/33683196/2sAYX3rPZN
 
 
 ## Developed By
-Maghfera Hassan
-maghferaelorbany6@gmail.com
+Maghfera Hassan | maghferaelorbany6@gmail.com
 
